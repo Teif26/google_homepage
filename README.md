@@ -1,0 +1,1 @@
+This is My second Odin Project. I will further develope my skills that ive already learned. I will be learning to reverse engineer a simple Website. At the end of this, I hope to have learned more about pushing to git repositories, and refreshing my abilities with CSS.
