@@ -7,6 +7,10 @@ a{
 }
 header{
     height: 55px;
+    position: fixed;
+    right: 0px;
+    top: 0px;
+    
 }
 #ul{
     list-style: none;
@@ -17,4 +21,63 @@ header{
 li{
     padding: 15px;
 }
+.main{
+    text-align: center;
+    margin-top:15%;
+}
+input{
+    text-align: center;
+    margin-top: 25px;
+    height: 25px;
+    width: 35%;
+    border: 1px blue solid ;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
 
+}
+
+    .input-icon{
+        position: absolute;
+        
+        
+
+}
+ span{
+    font-size: 5em;
+}
+#span-g{
+    color: #3767F0;
+}
+#span-o{
+    color: #D64720;
+}
+#span-o-2{
+    color:#FCC205;
+}
+#span-g-2{
+   color: #3767F0;
+}
+#span-l{
+    color:#0EA851;
+}
+#span-e{
+    color:#D64720
+}
+.input-wrapper{
+    position: relative;
+    font-size: 1.4em;
+}
+label{
+    top:30px;
+    right:435px;
+}
+
+footer{
+margin-top: 200px;
+box-sizing: border-box;
+position: fixed;
+bottom:0;
+right:0;
+}
